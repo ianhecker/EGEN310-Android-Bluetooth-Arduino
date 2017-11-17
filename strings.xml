@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="right">right</string>
-    <string name="left">left</string>
-    <string name="backward">backward</string>
-    <string name="forward">forward</string>
-</resources>
