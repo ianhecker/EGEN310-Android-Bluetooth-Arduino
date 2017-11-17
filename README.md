@@ -1,2 +1,5 @@
-# EGEN310-Android-Bluetooth-Controller
-An app for a multidiscipline engineering class where teams of four engineers develop an rc car. This app features bluetooth to connect to and controll an Arduino microcontroller with two motors
+Please: Use and abuse this code!
+
+All code posted in this repo is open source and free to use!
+
+So please download, modify, and utilize to your own advantage
